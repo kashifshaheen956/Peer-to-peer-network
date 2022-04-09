@@ -1,7 +1,5 @@
 # Own-Blockchain-network
 
-#Introduction:
-
 #Steps
 1. Clone the repository and load code into editor
 2. Run "nmp install"
